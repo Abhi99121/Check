@@ -73,5 +73,17 @@ Within different campaigns, there were different adsets and under every adset th
 ## Conlusions and Suggestions
 
 Analyzing the the datasets using the steps mentioned above, it can be concluded that 
- Campaign wise-
-     The number of unique clicks is consistent with the the expenditure made on a campaign. Furthermore would like to point out that on reducing the spend beyond a threshold      value the clicks dropped at a faster pace as compared to the drop in expenditure, as observed with Campaign 2.
+ 
+ -**Campaign wise**-The number of unique clicks is consistent with the the expenditure made on a campaign. Furthermore would like to point out that on reducing the spend beyond a threshold value the clicks dropped at a faster pace as compared to the drop in expenditure, as observed with Campaign 2.
+
+-Campaign 1- Majority of the spend are alloted for this specific campaign and the campaign is performing accordingly, as we see that it has the highest cpr value amongst all the other campaigns and minimum cpm(cost per mill), which is a proof of its performance.Under Campaign 1, we can see that the ad 1 under adset 1 has gathered a low ctr value , even through the spend for the same is high. It can be noted that the ad 1 under adset 1 is not performing up to the mark. 
+ 
+ -Campaign 2- An average sum of money is alloted for this campaign, we can see a sharp drop in the number of unique clicks as the spend is less, compared to campaign 1. It can be noted that under adset 4, ad 1 is not able to perform(gather ctr) depending in the fund spend on the same.
+ 
+ -Campaign 3- It is observed that this campaign is alloted with the minmum sum, which inturn results in fewer clicks( the campaign not being succesful). It can be noted that this campaign shows a positive scope of improvement, since it gathered 2nd highest ctr during its run( observation from the plot), also it is observed that the ad 4 under this campign has an immense scope of improvement, since a bare minimum spend could gather high returns. To improve this campaign, ad 4 should be focussed upon more.
+ 
+ -Campaign 4- An average sum of money is alloted for this campaign , which gathered an averge number of clicks throughout the campaign, but the the spend made on the number of clicks does not seem to even out the amount spend on it, since the spend v/s campaign slope is steeper compared to the clicks v/s campaign slope. It can be noted that the campaign has a very good scope for improvement, since ad 3 under this campaign is able to gather a very high ctr, with only a bare minimum amount spent on it. Hence ad 3 must be focussed upon for this campaigns growth.
+ 
+ -**Cross-platfrom observations**- It was observed that campaigns were performing differently on different platforms. Instagram could bring more impressions for the campaign and on the other hand  facebook could gather higher click through rate when compared to instagram. A better cpp value per impression was observed in the case of instagram.
+ 
+ All these observations must be taken into consideratuon for improvement of the campigns.
