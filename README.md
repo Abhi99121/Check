@@ -13,6 +13,10 @@ Flow of analysis
 
 The data provided is loaded on the system and it is checked for any inconsistency ( presence of NAN values, outliers)
 NAN values are checked with the help of heatmap and outliers are checked with the help of a box plot.
+![Screenshot (204)](https://user-images.githubusercontent.com/64247518/122635008-02f85880-d0ff-11eb-9106-c3319660ae78.png)
+![Screenshot (212)](https://user-images.githubusercontent.com/64247518/122635257-76e73080-d100-11eb-90bb-fccadf3f820c.png)
+
+
 
 After checking for the inconsistency, the data is checked for different sort of features, namely
 Numerical Features
