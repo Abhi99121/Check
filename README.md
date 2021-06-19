@@ -58,6 +58,7 @@ Within different campaigns, there were different adsets and under every adset th
 ![4](https://user-images.githubusercontent.com/64247518/122638230-b584e700-d110-11eb-99e7-c741fdf1b1a5.png)
 ![3](https://user-images.githubusercontent.com/64247518/122638231-b61d7d80-d110-11eb-8a89-525d9f1d047d.png)
 ![2](https://user-images.githubusercontent.com/64247518/122638232-b6b61400-d110-11eb-8085-9d1db2efd565.png)
+![1](https://user-images.githubusercontent.com/64247518/122638234-b6b61400-d110-11eb-9ab8-1571b1e494cf.png)
 ![14](https://user-images.githubusercontent.com/64247518/122638235-b74eaa80-d110-11eb-8bc4-589c54cbf158.png)
 ![13](https://user-images.githubusercontent.com/64247518/122638236-b74eaa80-d110-11eb-82eb-1ae7cdc6e235.png)
 ![12](https://user-images.githubusercontent.com/64247518/122638237-b7e74100-d110-11eb-8264-632bd850b249.png)
