@@ -28,6 +28,7 @@ It is necessary to scan the data for the same, since the analysis run on differe
 
 Coming to the initial step,a pairplot is drawn between different numerical features on the basis of different platforms chosen for the analysis, namely-Instagram and Facebook, and some initial conclusions could be drawn from the plot
 The plot between clicks and impression was observed to be exponential for Instagram and linear for Facebook
+![Screenshot (218)](https://user-images.githubusercontent.com/64247518/122640450-5083be00-d11d-11eb-8589-77673a57121b.png)
 
 It is observed that there are 4 campaigns, unique clicks and spend with respect to these 4 different campaigns are plotted. It is observed that maximum and minimum expenditure have been done on campaign 1 and campaign 3 respectively, a similar trend is observed with respect to the number of unique clicks.
 ![Screenshot (207)](https://user-images.githubusercontent.com/64247518/122635329-e0ffd580-d100-11eb-97b1-d199921a3868.png)
