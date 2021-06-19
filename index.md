@@ -26,8 +26,7 @@ It is necessary to scan the data for the same, since the analysis run on differe
 ![Screenshot (205)](https://user-images.githubusercontent.com/64247518/122635323-d5acaa00-d100-11eb-8f4d-71160127c6d2.png)
 ![Screenshot (206)](https://user-images.githubusercontent.com/64247518/122635326-d9d8c780-d100-11eb-8da6-d64945d68055.png)
 
-Coming to the initial step,a pairplot is drawn between different numerical features on the basis of different platforms chosen for the analysis, namely-Instagram and Facebook, and some initial conclusions could be drawn from the plot
-The plot between clicks and impression was observed to be exponential for Instagram and linear for Facebook
+Coming to the initial step,a pairplot is drawn between different numerical features on the basis of different platforms chosen for the analysis, namely-Instagram and Facebook, and some initial conclusions could be drawn from the plot.The plot between clicks and impression was observed to be exponential for Instagram and linear for Facebook
 ![Screenshot (218)](https://user-images.githubusercontent.com/64247518/122640450-5083be00-d11d-11eb-8589-77673a57121b.png)
 
 It is observed that there are 4 campaigns, unique clicks and spend with respect to these 4 different campaigns are plotted. It is observed that maximum and minimum expenditure have been done on campaign 1 and campaign 3 respectively, a similar trend is observed with respect to the number of unique clicks.
@@ -42,6 +41,9 @@ On reading the excel sheet of the csv file after sorting columns like campaign_n
 To get a better insight of the data, the data was classified on a time line using the temporal(date-time) feature, namely(date_start) and it was tried to observe the number of clicks and individual campaign could get throught the duration of the camapign. It was observed that campign 1 got the maximum nuber of clicks throughout.
 
 ![Screenshot (211)](https://user-images.githubusercontent.com/64247518/122635338-e8bf7a00-d100-11eb-98a0-18a6c43c2821.png)
+![n2](https://user-images.githubusercontent.com/64247518/122640536-c25c0780-d11d-11eb-90a5-be2e228c314b.png)
+![n1](https://user-images.githubusercontent.com/64247518/122640539-c38d3480-d11d-11eb-9771-dde01dcd7815.png)
+
 
 Some cross platfrom analysis was carried out to check how do the paramters vary depending on the platfrom, paramters like impressions and ctr were calculated for each platform.
 
