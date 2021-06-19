@@ -1,15 +1,15 @@
-## Data Visualizaton
+# Delphi Case Study
 
-About Dataset
+## About Dataset
 
 The dataset provided to us deals with cross platform(namely instagram and facebook) digital marketing campaigns with various attributes such as clicks ,ctr(click thhrough rate),cpm(click per millon),expenditure on these campaigns, impressions.
 
-Methodology and considerations for analysis
+## Methodology and considerations for analysis
 
 The aim is to analyze the data thoroughly, we can check how the campaigns are performing on the basis of serveral attributes such as the spend on a specific campaign, clicks on the ad, impressions ,etc. General understanding of the digital marketing concepts will be used in understanding how successful an ad campaign has been, for eg-If we observe that an ad campaign is clicked multiple times , it will be a succesful campaign.
 Anlysis will be done with the help of various packages provided in Python like seaborn,matplotlib,numpy,pandas, wherein we will use various visualization concept to gain indepth insights on the data to come up with a plausible conclusion.
 
-Flow of analysis
+## Flow of analysis
 
 The data provided is loaded on the system and it is checked for any inconsistency ( presence of NAN values, outliers)
 NAN values are checked with the help of heatmap and outliers are checked with the help of a box plot.
@@ -51,20 +51,12 @@ Some cross platfrom analysis was carried out to check how do the paramters vary 
 
 Within different campaigns, there were different adsets and under every adset there was an ad , depending on the flow of data, plots were prepared to get a clear idea of how the ads are performing within an adset and how is that particular adset is performing under a campaign, various metric were considered such as ctr, spend, impressions.
 
-![8](https://user-images.githubusercontent.com/64247518/122638225-b3228d00-d110-11eb-81a1-863a60c5fdba.png)
-![7](https://user-images.githubusercontent.com/64247518/122638227-b4ec5080-d110-11eb-8f30-fc6b0e33da78.png)
-![6](https://user-images.githubusercontent.com/64247518/122638228-b4ec5080-d110-11eb-9b71-09d7f1f8e548.png)
-![5](https://user-images.githubusercontent.com/64247518/122638229-b584e700-d110-11eb-9b6c-455553d9047c.png)
-![4](https://user-images.githubusercontent.com/64247518/122638230-b584e700-d110-11eb-99e7-c741fdf1b1a5.png)
-![3](https://user-images.githubusercontent.com/64247518/122638231-b61d7d80-d110-11eb-8a89-525d9f1d047d.png)
-![2](https://user-images.githubusercontent.com/64247518/122638232-b6b61400-d110-11eb-8085-9d1db2efd565.png)
-![1](https://user-images.githubusercontent.com/64247518/122638234-b6b61400-d110-11eb-9ab8-1571b1e494cf.png)
-![14](https://user-images.githubusercontent.com/64247518/122638235-b74eaa80-d110-11eb-8bc4-589c54cbf158.png)
-![13](https://user-images.githubusercontent.com/64247518/122638236-b74eaa80-d110-11eb-82eb-1ae7cdc6e235.png)
-![12](https://user-images.githubusercontent.com/64247518/122638237-b7e74100-d110-11eb-8264-632bd850b249.png)
-![11](https://user-images.githubusercontent.com/64247518/122638239-b87fd780-d110-11eb-8c97-e0d1a07d9db6.png)
-![10](https://user-images.githubusercontent.com/64247518/122638241-b87fd780-d110-11eb-8456-816b2806ca88.png)
-![9](https://user-images.githubusercontent.com/64247518/122638244-b9186e00-d110-11eb-9212-ad6530ac1d6d.png)
+### Campaign 4- Adset 4 Spend-Ctr Comaprison
+![8](https://user-images.githubusercontent.com/64247518/122638225-b3228d00-d110-11eb-81a1-863a60c5fdba.png) ![1](https://user-images.githubusercontent.com/64247518/122638234-b6b61400-d110-11eb-9ab8-1571b1e494cf.png)
+
+![9](https://user-images.githubusercontent.com/64247518/122638244-b9186e00-d110-11eb-9212-ad6530ac1d6d.png) 
+
+
 
 
 
