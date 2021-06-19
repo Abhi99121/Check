@@ -41,6 +41,9 @@ On reading the excel sheet of the csv file after sorting columns like campaign_n
 To get a better insight of the data, the data was classified on a time line using the temporal(date-time) feature, namely(date_start) and it was tried to observe the number of clicks and individual campaign could get throught the duration of the camapign. It was observed that campign 1 got the maximum nuber of clicks throughout.
 
 ![Screenshot (211)](https://user-images.githubusercontent.com/64247518/122635338-e8bf7a00-d100-11eb-98a0-18a6c43c2821.png)
+![n2](https://user-images.githubusercontent.com/64247518/122640331-a73cc800-d11c-11eb-8ae8-a117f2f5f74d.png)
+![n1](https://user-images.githubusercontent.com/64247518/122640333-a9068b80-d11c-11eb-8527-cc0391cb90a0.png)
+
 
 Some cross platfrom analysis was carried out to check how do the paramters vary depending on the platfrom, paramters like impressions and ctr were calculated for each platform.
 
