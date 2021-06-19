@@ -4,6 +4,8 @@
 
 The dataset provided to us deals with cross platform(namely instagram and facebook) digital marketing campaigns with various attributes such as clicks ,ctr(click thhrough rate),cpm(click per millon),expenditure on these campaigns, impressions.
 
+[Code file](https://github.com/Abhi99121/Check/blob/main/Delphi%20Visualization%20Case%20Study%20.ipynb)
+
 ## Methodology and considerations for analysis
 
 The aim is to analyze the data thoroughly, we can check how the campaigns are performing on the basis of serveral attributes such as the spend on a specific campaign, clicks on the ad, impressions ,etc. General understanding of the digital marketing concepts will be used in understanding how successful an ad campaign has been, for eg-If we observe that an ad campaign is clicked multiple times , it will be a succesful campaign.
