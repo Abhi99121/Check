@@ -65,3 +65,7 @@ Within different campaigns, there were different adsets and under every adset th
 ![13](https://user-images.githubusercontent.com/64247518/122638236-b74eaa80-d110-11eb-82eb-1ae7cdc6e235.png) ![6](https://user-images.githubusercontent.com/64247518/122638228-b4ec5080-d110-11eb-9b71-09d7f1f8e548.png)
 ### Campaign 3- Adset 2 Spend-Ctr Comaprison
 ![14](https://user-images.githubusercontent.com/64247518/122638235-b74eaa80-d110-11eb-8bc4-589c54cbf158.png) ![7](https://user-images.githubusercontent.com/64247518/122638227-b4ec5080-d110-11eb-8f30-fc6b0e33da78.png)
+
+## Conlusions
+
+Analyzing the the datasets using the steps mentioned above, 
