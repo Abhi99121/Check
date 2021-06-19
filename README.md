@@ -43,6 +43,10 @@ To get a better insight of the data, the data was classified on a time line usin
 ![Screenshot (211)](https://user-images.githubusercontent.com/64247518/122635338-e8bf7a00-d100-11eb-98a0-18a6c43c2821.png)
 
 Some cross platfrom analysis was carried out to check how do the paramters vary depending on the platfrom, paramters like impressions and ctr were calculated for each platform.
+![Screenshot (216)](https://user-images.githubusercontent.com/64247518/122635461-b7937980-d101-11eb-840b-9af755a95fb4.png)
+![Screenshot (217)](https://user-images.githubusercontent.com/64247518/122635465-ba8e6a00-d101-11eb-8955-c7f88650f928.png)
+
+
 
 Within different campaigns, there were different adsets and under every adset there was an ad , depending on the flow of data, plots were prepared to get a clear idea of how the ads are performing within an adset and how is that particular adset is performing under a campaign, various metric were considered such as ctr, spend, impressions.
 
