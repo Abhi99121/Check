@@ -27,6 +27,8 @@ Temporal Featutes(Date-Time Variables)
 It is necessary to scan the data for the same, since the analysis run on different type of features are unique
 ![Screenshot (205)](https://user-images.githubusercontent.com/64247518/122635323-d5acaa00-d100-11eb-8f4d-71160127c6d2.png)
 ![Screenshot (206)](https://user-images.githubusercontent.com/64247518/122635326-d9d8c780-d100-11eb-8da6-d64945d68055.png)
+![Screenshot (224)](https://user-images.githubusercontent.com/64247518/122645407-1aa00300-d138-11eb-9ac7-a2f509191fd5.png)
+
 
 Coming to the initial step,a pairplot is drawn between different numerical features on the basis of different platforms chosen for the analysis, namely-Instagram and Facebook, and some initial conclusions could be drawn from the plot.The plot between clicks and impression was observed to be exponential for Instagram and linear for Facebook
 ![Screenshot (218)](https://user-images.githubusercontent.com/64247518/122640450-5083be00-d11d-11eb-8589-77673a57121b.png)
