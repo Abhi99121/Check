@@ -23,21 +23,32 @@ Numerical Features
 Categorical Features
 Temporal Featutes(Date-Time Variables)
 It is necessary to scan the data for the same, since the analysis run on different type of features are unique
+![Screenshot (205)](https://user-images.githubusercontent.com/64247518/122635323-d5acaa00-d100-11eb-8f4d-71160127c6d2.png)
+![Screenshot (206)](https://user-images.githubusercontent.com/64247518/122635326-d9d8c780-d100-11eb-8da6-d64945d68055.png)
 
 Coming to the initial step,a pairplot is drawn between different numerical features on the basis of different platforms chosen for the analysis, namely-Instagram and Facebook, and some initial conclusions could be drawn from the plot
 The plot between clicks and impression was observed to be exponential for Instagram and linear for Facebook
 
 It is observed that there are 4 campaigns, unique clicks and spend with respect to these 4 different campaigns are plotted. It is observed that maximum and minimum expenditure have been done on campaign 1 and campaign 3 respectively, a similar trend is observed with respect to the number of unique clicks.
+![Screenshot (207)](https://user-images.githubusercontent.com/64247518/122635329-e0ffd580-d100-11eb-97b1-d199921a3868.png)
+![Screenshot (208)](https://user-images.githubusercontent.com/64247518/122635332-e2c99900-d100-11eb-88a7-49932e61460d.png)
 
 In the next step we try to gather data on how much the numerical features are related to each other, it is carried out using a correlation heatmap, which makes it clear that the parameters spend and impressions are correlated,cpp and cpm are highly correlated. On the basis of this correlation statistics, we can choose which of the features are to be used for the analysis purpose. For example- Given that cpp and cpm are highly correlated we can neglect one of the paramters, since a change in one of the parameters would pan out an almost similar change in the other.
+![Screenshot (209)](https://user-images.githubusercontent.com/64247518/122635335-e52bf300-d100-11eb-9e51-067bfbf1041f.png)
 
 On reading the excel sheet of the csv file after sorting columns like campaign_name, we could understand that the flow of the ad campaign is from camapign->adset->ad, it was clearly evident that there were some adsets under the campign and further under the adsets there were ads.
 
 To get a better insight of the data, the data was classified on a time line using the temporal(date-time) feature, namely(date_start) and it was tried to observe the number of clicks and individual campaign could get throught the duration of the camapign. It was observed that campign 1 got the maximum nuber of clicks throughout.
 
+![Screenshot (211)](https://user-images.githubusercontent.com/64247518/122635338-e8bf7a00-d100-11eb-98a0-18a6c43c2821.png)
+
 Some cross platfrom analysis was carried out to check how do the paramters vary depending on the platfrom, paramters like impressions and ctr were calculated for each platform.
 
 Within different campaigns, there were different adsets and under every adset there was an ad , depending on the flow of data, plots were prepared to get a clear idea of how the ads are performing within an adset and how is that particular adset is performing under a campaign, various metric were considered such as ctr, spend, impressions.
+
+
+
+
 
 
 
