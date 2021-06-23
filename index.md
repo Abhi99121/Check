@@ -88,4 +88,4 @@ Analyzing the the datasets using the steps mentioned above, it can be concluded 
  
  -**Cross-platfrom observations**- It was observed that campaigns were performing differently on different platforms. Instagram could bring more impressions for the campaign and on the other hand  facebook could gather higher click through rate when compared to instagram. A better cpp value per impression was observed in the case of instagram.
  
- All these observations must be taken into consideratuon for improvement of the campaigns.
+ All these observations must be taken into consideration for improvement of the campaigns.
