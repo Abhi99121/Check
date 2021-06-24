@@ -2,7 +2,7 @@
 
 ## About Dataset
 
-The dataset provided to us deals with cross platform(namely instagram and facebook) digital marketing campaigns with various attributes such as clicks ,ctr(click thhrough rate),cpm(click per millon),expenditure on these campaigns, impressions.
+The dataset provided to us deals with cross platform(namely instagram and facebook) digital marketing campaigns with various attributes such as clicks ,ctr(click thhrough rate),cpm(cost per thousand impressions),expenditure on these campaigns, impressions.
 
 [Code file](https://github.com/Abhi99121/Check/blob/main/Delphi%20Visualization%20Case%20Study%20.ipynb)
 
